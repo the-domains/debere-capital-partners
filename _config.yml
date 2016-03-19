@@ -1,7 +1,7 @@
 name: 'DeBere Capital Partners '
 favicon: null
 layout_spectrum: 0.9727979281451553
-typography_spectrum: 0.5841999398544431
+typography_spectrum: 0.50609
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#c5d5eb'
+    - '#17100b'
+    - '#d3ab9f'
+    - '#684d3c'
   brandStrength: 0.3575404800940305
   lightness: 0.4029470693785697
   saturation: 0.08570645237341523
